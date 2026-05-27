@@ -1,0 +1,33 @@
+# AI Assistance Log
+
+Project: Chat App
+
+AI Tool Used:
+- ChatGPT
+
+Main AI Assistance Areas:
+- React Native UI development
+- Firebase Authentication integration
+- Firestore real-time messaging
+- Friend request system
+- Group chat implementation
+- AI Assistant integration
+- AsyncStorage local storage
+- Push notifications setup
+- Typing indicator implementation
+- Seen/Delivered messages system
+- Fingerprint authentication
+- Debugging and fixing React Native issues
+- GitHub and environment variable setup
+
+Examples of prompts used:
+- "How to implement real-time chat with Firebase Firestore?"
+- "How to create group chats in React Native?"
+- "How to implement seen and delivered messages?"
+- "How to use AsyncStorage for local chat history?"
+- "How to integrate OpenRouter API in React Native?"
+- "How to fix GitHub push protection secret errors?"
+- "How to implement fingerprint authentication in Expo?"
+- "How to create typing indicator in chat application?"
+
+The AI assistant was used for learning, debugging, architecture guidance, UI improvements, Firebase integration, AI integration, and implementation support throughout the development of the mobile chat application.
